@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Evgallos
-- 👀 I’m interested in programming, Linux
+- 👀 I’m interested in programming Python, and Linux as OS
 - 🌱 I’m currently learning python
 
 <!---
