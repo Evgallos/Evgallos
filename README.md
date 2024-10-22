@@ -6,7 +6,7 @@
 
   🆔 (ID == linkedin) || (ID == Microsoft)
   {
-     - 🧑🏽‍💻 linkedin.com/in/evangelos-gallos
+     - 🧑🏽‍💻 https://linkedin.com/in/evangelos-gallos/
 
      - 🧑🏽‍💻 https://learn.microsoft.com/en-us/users/evangelosgallos-0854/
   }
