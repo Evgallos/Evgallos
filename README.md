@@ -6,7 +6,7 @@
   
 - 🧑🏽‍💻 linkedin.com/in/evangelos-gallos
   
-- - 👀 I’m interested in programming Python, C# and Linux as OS
+- 👀 I’m interested in programming Python, C# and Linux as OS
 
 <!---
 Evgallos/Evgallos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
