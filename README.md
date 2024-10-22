@@ -3,9 +3,13 @@
 - 🎨 UX/UI Professional Certificate Google
   
 - 🌱 I’m currently learning System Developer { C#, .Net, Javscript, HTML5, Bootstrap, CSS, Unit Test, SQL Database, MVC, jQuery, Visual Studio}
-  
-- 🧑🏽‍💻 linkedin.com/in/evangelos-gallos
-  
+
+  🆔 (ID == linkedin) || (ID == Microsoft)
+  {
+     - 🧑🏽‍💻 linkedin.com/in/evangelos-gallos
+
+     - 🧑🏽‍💻 https://learn.microsoft.com/en-us/users/evangelosgallos-0854/
+  }
 - 👀 I’m interested in programming Python, C# and Linux as OS
 
 <!---
