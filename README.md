@@ -4,7 +4,8 @@
   
 - 🌱 I’m currently learning System Developer { C#, .Net, Javscript, HTML5, Bootstrap, CSS, Unit Test, SQL Database, MVC, jQuery, Visual Studio}
 
-  🆔 (ID == linkedin) || (ID == Microsoft)
+  🆔: for (ID == linkedin) || (ID == Microsoft)
+
   {
      - 🧑🏽‍💻 https://linkedin.com/in/evangelos-gallos/
 
