@@ -5,9 +5,11 @@
   
 - 🌱 I’m currently learning System Developer { C#, .Net, Javscript, HTML5, Bootstrap, CSS, Unit Test, SQL Database, MVC, jQuery, Visual Studio, Git, Azure Db}
 
-  for (ID == linkedin) || (ID == Microsoft)
+  for (ID == linkedin) || (ID == Microsoft) || (ID == Portofolio)
 
   {
+     - 📚🎭 evangelosgallos.wixsite.com/mysite/
+       
      - 🧑🏽‍💻 https://linkedin.com/in/evangelos-gallos/
 
      - 🧑🏽‍💻 https://learn.microsoft.com/en-us/users/evangelosgallos-0854/
