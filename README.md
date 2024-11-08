@@ -13,7 +13,6 @@
      - 🧑🏽‍💻 https://linkedin.com/in/evangelos-gallos/
 
      - 🧑🏽‍💻 https://learn.microsoft.com/en-us/users/evangelosgallos-0854/
-   break;
   
   }
 - 👀 I’m interested in programming Python, C# and Linux as OS
