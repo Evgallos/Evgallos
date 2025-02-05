@@ -13,8 +13,6 @@
      - 🧑🏽‍💻 https://linkedin.com/in/evangelos-gallos/
 
      - 🧑🏽‍💻 https://learn.microsoft.com/en-us/users/evangelosgallos-0854/
- 
-     - 🚀 Presentation Project MaxCinema - https://1drv.ms/p/c/66f1ad52fc8c2bf9/Ee9_d7p_CutFja_6ojT_w1gBCoSAl0-rsDzaqI5AQvcoWA?e=ul4zJO
   
   }
 - 👀 I’m interested in programming Python, C# and Linux as OS
