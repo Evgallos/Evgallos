@@ -14,7 +14,7 @@
 
      - 🧑🏽‍💻 https://learn.microsoft.com/en-us/users/evangelosgallos-0854/
  
-     - 🚀 My Portfolio https://evgallos.com
+     - 🚀 My Portfolio - Live: https://evgallos.com
   
   }
 - 👀 I’m interested in programming Python, C# and Linux as OS
